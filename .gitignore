@@ -5,3 +5,5 @@ __pycache__/
 downloads/
 *.pdf
 run_logs.txt
+logs.txt
+*.log
